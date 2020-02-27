@@ -1,2 +1,2 @@
-# PHP-and-XML-2
+# PHP-and-XML
 Creating XML file through PHP script
